@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6ef463e92b4a43148908e2dbd7444ed0
+labels:
+- QUICKTIME
+- MOVIE
+- VIDEO
+- PLAYBACK
+- STREAMING
+- MOV
+- MP4
+- AAC
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 100
+  icon: {fileID: 2800000, guid: 96e7485130f48624ca3b7065ac1d81db, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
